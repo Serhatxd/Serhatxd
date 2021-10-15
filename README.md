@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Serhatxd
-- 👀 I’m interested in coding
-
+Merhaba Ben Serhat efe
+Discordla uğraşıyorum :D
