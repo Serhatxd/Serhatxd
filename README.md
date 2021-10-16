@@ -1,4 +1,4 @@
-class Serhatxyz {
+```class Serhatxyz {
     constructor(options) {
         this.name = "Serhat efe Budak",
         this.job = "student",
@@ -10,4 +10,5 @@ class Serhatxyz {
     };
 }
 
-module.exports = Serhatxyz
+module.exports = Serhatxyz```
+
