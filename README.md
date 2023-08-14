@@ -5,7 +5,7 @@
         this.length = "180",
         this.type = "human",
         this.sex = "man",
-        this.weight = "75",
+        this.weight = "83",
         this.age = "16"
     };
 }
