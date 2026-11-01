@@ -6,4 +6,3 @@ mostly using this account to keep my projects and whatever i'm learning at the m
 ![age](https://img.shields.io/badge/age-19-30363d?style=flat-square&labelColor=161b22)
 ![location](https://img.shields.io/badge/location-T%C3%BCrkiye-30363d?style=flat-square&labelColor=161b22)
 ![studying](https://img.shields.io/badge/studying-Electrical--Electronics-30363d?style=flat-square&labelColor=161b22)
-![year](https://img.shields.io/badge/year-2nd-30363d?style=flat-square&labelColor=161b22)
