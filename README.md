@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.gif" width="65%" alt="banner" /></p>
+<img src="banner.gif" width="100%" alt="banner" />
 
 ### hey, i'm serhat
 
