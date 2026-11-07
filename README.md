@@ -1,3 +1,5 @@
+<img src="banner.gif" width="100%" alt="banner" />
+
 ### hey, i'm serhat
 
 19 y/o electrical-electronics student from türkiye, currently in my 2nd year.
